@@ -9,6 +9,8 @@ const LoginFields =[
     isRequired:true,
     placeholder:"Email address",
     },
+
+    
     // {
     //     labelText: "phone number",
     //     labelFor: "phone-number",
